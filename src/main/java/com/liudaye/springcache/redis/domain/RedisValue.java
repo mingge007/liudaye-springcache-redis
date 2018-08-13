@@ -1,4 +1,4 @@
-package com.vv.springcache.redis.domain;
+package com.liudaye.springcache.redis.domain;
 
 import com.alibaba.fastjson.JSON;
 import org.springframework.util.StopWatch;

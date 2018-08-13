@@ -1,10 +1,10 @@
-package com.vv.springcache.redis.manager;
+package com.liudaye.springcache.redis.manager;
 
 
 import com.alibaba.fastjson.JSON;
-import com.vv.springcache.redis.comm.JDKSerializer;
-import com.vv.springcache.redis.comm.MyJedis;
-import com.vv.springcache.redis.domain.RedisValue;
+import com.liudaye.springcache.redis.comm.JDKSerializer;
+import com.liudaye.springcache.redis.comm.MyJedis;
+import com.liudaye.springcache.redis.domain.RedisValue;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.cache.Cache;

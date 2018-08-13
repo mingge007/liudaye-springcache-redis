@@ -1,4 +1,4 @@
-package com.vv.springcache.redis.manager;
+package com.liudaye.springcache.redis.manager;
 
 public class Comm {
     public static String OBJECTSERIALIZETYPE = "hessian";

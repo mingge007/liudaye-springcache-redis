@@ -1,4 +1,4 @@
-package com.vv.springcache.redis.comm;
+package com.liudaye.springcache.redis.comm;
 
 import java.util.Properties;
 

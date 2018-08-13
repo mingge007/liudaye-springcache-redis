@@ -1,10 +1,10 @@
-package com.vv.springcache;
+package com.liudaye.springcache;
 
 import static org.junit.Assert.assertTrue;
 
-import com.vv.springcache.redis.comm.JDKSerializer;
-import com.vv.springcache.redis.comm.RedisSerializer;
-import com.vv.springcache.redis.manager.VVRedisCache;
+import com.liudaye.springcache.redis.comm.JDKSerializer;
+import com.liudaye.springcache.redis.comm.RedisSerializer;
+import com.liudaye.springcache.redis.manager.VVRedisCache;
 import org.junit.Test;
 import org.springframework.util.StopWatch;
 

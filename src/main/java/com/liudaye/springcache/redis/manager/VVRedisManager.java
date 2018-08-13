@@ -1,4 +1,4 @@
-package com.vv.springcache.redis.manager;
+package com.liudaye.springcache.redis.manager;
 
 import org.springframework.cache.Cache;
 import org.springframework.cache.support.AbstractCacheManager;
